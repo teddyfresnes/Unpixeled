@@ -1,0 +1,9 @@
+body{
+    background: radial-gradient(circle at 40% 20%, #2a2a2a 0%, #101010 100%);
+    overflow:hidden;
+    font-family: 'Inter', sans-serif;
+  }.glass{background:rgba(255,255,255,.06);backdrop-filter:blur(25px);border:1px solid rgba(255,255,255,.15)}
+.form-control,.form-control:focus{color:#fff;background:#1f1f1f;border:0;box-shadow:none}
+.btn-primary{background:#6ea8fe;border:0}.btn-primary:hover{background:#8ab7ff}
+.btn-outline-light:hover{background:rgba(255,255,255,.15)}
+#game-container{position:absolute;inset:0}
